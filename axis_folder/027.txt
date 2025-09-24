@@ -1,0 +1,6 @@
+origin: (80, 461)
+vertical axis point：
+text: 800, coordinate: (80, 202)
+text: 600, coordinate: (80, 266)
+Py: 3.125000
+horizontal axis point：

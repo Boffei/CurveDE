@@ -1,0 +1,9 @@
+origin: (70, 135)
+vertical axis point：
+text: 900, coordinate: (70, 70)
+text: 400, coordinate: (70, 103)
+Py: 15.151515
+horizontal axis point：
+text: 0.2, coordinate: (192, 135)
+text: 0.3, coordinate: (252, 135)
+Px: 0.001667

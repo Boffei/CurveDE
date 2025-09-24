@@ -1,0 +1,88 @@
+{
+    "info": {
+        "description": "ISAT",
+        "folder": "/home/Zhaobf/data/hard0",
+        "name": "160.jpg",
+        "width": 640,
+        "height": 480,
+        "depth": 3,
+        "note": ""
+    },
+    "objects": [
+        {
+            "category": "line",
+            "group": 1,
+            "segmentation": [],
+            "area": 11646.789749999989,
+            "layer": 1.0,
+            "bbox": [
+                367.34,
+                89.92,
+                1548.9,
+                966.35
+            ],
+            "iscrowd": 0,
+            "note": ""
+        },
+        {
+            "category": "line",
+            "group": 2,
+            "segmentation": [],
+            "area": 10386.975000000006,
+            "layer": 2.0,
+            "bbox": [
+                546.0,
+                317.0,
+                1546.0,
+                409.0
+            ],
+            "iscrowd": 0,
+            "note": ""
+        },
+        {
+            "category": "line",
+            "group": 3,
+            "segmentation": [],
+            "area": 3488.4058999999106,
+            "layer": 3.0,
+            "bbox": [
+                387.71,
+                397.99,
+                559.69,
+                981.31
+            ],
+            "iscrowd": 0,
+            "note": ""
+        },
+        {
+            "category": "line",
+            "group": 4,
+            "segmentation": [],
+            "area": 9587.23999999999,
+            "layer": 4.0,
+            "bbox": [
+                533.08,
+                423.0,
+                1546.0,
+                448.56
+            ],
+            "iscrowd": 0,
+            "note": ""
+        },
+        {
+            "category": "line",
+            "group": 5,
+            "segmentation": [],
+            "area": 3383.8385499999713,
+            "layer": 5.0,
+            "bbox": [
+                374.67,
+                447.25,
+                518.5,
+                1014.53
+            ],
+            "iscrowd": 0,
+            "note": ""
+        }
+    ]
+}

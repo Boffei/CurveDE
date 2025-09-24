@@ -1,0 +1,7 @@
+origin: (61, 260)
+vertical axis point：
+
+horizontal axis point：
+text: 0.6, coordinate: (398, 260)
+text: 0., coordinate: (68, 260)
+Px: 0.001818

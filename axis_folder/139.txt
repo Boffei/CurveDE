@@ -1,0 +1,9 @@
+origin: (79, 428)
+vertical axis point：
+text: 750, coordinate: (79, 289)
+text: 500, coordinate: (79, 335)
+Py: 5.434783
+horizontal axis point：
+text: 0.15, coordinate: (327, 428)
+text: 0.25, coordinate: (489, 428)
+Px: 0.000617

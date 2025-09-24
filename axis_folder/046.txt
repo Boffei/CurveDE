@@ -1,0 +1,5 @@
+origin: (74, 144)
+vertical axis point：
+
+horizontal axis point：
+text: 7, coordinate: (77, 144)

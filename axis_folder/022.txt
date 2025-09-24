@@ -1,0 +1,7 @@
+origin: (107, 431)
+vertical axis point：
+
+horizontal axis point：
+text: 10, coordinate: (366, 431)
+text: 20, coordinate: (622, 431)
+Px: 0.039062

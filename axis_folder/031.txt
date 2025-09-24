@@ -1,0 +1,6 @@
+origin: (262, 1203)
+vertical axis point：
+text: 100, coordinate: (262, 909)
+text: 700, coordinate: (262, 90)
+Py: 0.732601
+horizontal axis point：

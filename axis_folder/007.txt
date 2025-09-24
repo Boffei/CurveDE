@@ -1,0 +1,7 @@
+origin: (16, 405)
+vertical axis point：
+
+horizontal axis point：
+text: 0., coordinate: (83, 405)
+text: 4, coordinate: (154, 405)
+Px: 0.056338
