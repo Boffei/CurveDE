@@ -1,1 +1,2 @@
-CurveDE is an image recognition tool for extracting stress-strain curve data of superalloys.
+  CurveDE is an image recognition tool for extracting stress-strain curve data of superalloys. 
+  CurveDE comprises two modules : (i) Line data extraction: adopt instance segmentation, each curve is regarded as an instance, the pixel coordinates of the curve are extracted.   (ii) Coordinate extraction of key parameters: including axes text extraction and processing, coordinate transformation and key parameters filtering three parts, convert pixel coordinates to ground truth coordinates and screen out key parameters.
